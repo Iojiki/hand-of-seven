@@ -1,0 +1,1 @@
+To Run this program have Python installed and run 'python main.py'

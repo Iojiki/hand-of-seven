@@ -1,7 +1,3 @@
-# Creating Variables
-# inMain = True
-# selectedOption = False
-
 from random import shuffle
 
 handOfCards = []
